@@ -1,4 +1,4 @@
-[![MasterHead](https://https://camo.githubusercontent.com/f8890b3836e5c774ccf3074efabcd95f31dbce1fcf4e0ed8a696f8b43f959eae/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966)]
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Radhanath Nayak</h1>
 <h3 align="center">Elevating data-driven passion into actionable insights</h3>
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA,MLOPS**
+- 🌱 I’m currently learning ****Machine Learning For Production , Large Language Models ****
 
-- 💬 Ask me about **Machine Learning,NLP, Image Processing, Deep Learning**
+- 💬 Ask me about **Machine Learning, Data Engineering, Natural Language Processing, Remote Sensing, Satellite Image Processing, Geology**
 
 - 📫 How to reach me **nayakradhanth@gmail.com**
 
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radhe5027&show_icons=true&locale=en" alt="radhe5027" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radhe5027&" alt="radhe5027" /></p>
+
