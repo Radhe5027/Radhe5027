@@ -11,13 +11,14 @@
 
 
 
-- 🌱 I’m currently learning ****Machine Learning For Production , Large Language Models ****
 
-- 💬 Ask me about **Machine Learning, Data Engineering, Natural Language Processing, Remote Sensing, Satellite Image Processing, Geology**
+- 🌱 I’m currently learning ** Full Stack Development, Machine Learning for Production, Deep Learning, **  
+- 💬 Ask me about **Full Stack Development, Svelte, Node.js, Express, PostgreSQL, Machine Learning, Data Engineering, Natural Language Processing, Remote Sensing, Satellite Image Processing**  
+- 📫 How to reach me: **nayakradhanth@gmail.com**  
 
-- 📫 How to reach me **nayakradhanth@gmail.com**
 
-- ⚡ Fun fact **I think I am funy**
+
+Let me know if you need any more changes!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
